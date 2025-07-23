@@ -171,7 +171,8 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=havankakadiya&theme=tokyonight_duo" alt="DakshGovani" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=havankakadiya&theme=tokyonight_duo" alt="HavanKakadiya
+			  " /></p>
 
 </details>
   
