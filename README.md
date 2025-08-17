@@ -8,7 +8,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=havankakadiya&label=Profile%20views&color=0047AB&style=plastic?" alt="HavanKakadiya" height=25px, width=160px/>
-	<img src="https://github.com/user-attachments/assets/1d5adc78-e0db-42af-b22d-c92c1ac67de7" alt="HavanKakadiya" height=25px, width=160px/>
+<!-- 	<img src="https://github.com/user-attachments/assets/1d5adc78-e0db-42af-b22d-c92c1ac67de7" alt="HavanKakadiya" height=25px, width=160px/> -->
 </p>
 
 	
